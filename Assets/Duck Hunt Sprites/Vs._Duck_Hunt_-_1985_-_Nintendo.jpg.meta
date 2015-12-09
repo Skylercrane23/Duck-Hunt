@@ -1,14 +1,10 @@
 fileFormatVersion: 2
-guid: 0bb21895079c84969b826a10f0583c27
-timeCreated: 1449547019
+guid: f961c0b2658a04913a10421ec338a543
+timeCreated: 1449677996
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Duck_Hunt_Background
-    21300002: ground
-    21300004: Bullet
-    21300006: Duck_icon
-    21300008: NES - Duck Hunt - General Rips_0
+    21300000: Vs._Duck_Hunt_-_1985_-_Nintendo_0
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -55,43 +51,13 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: ground
+    - name: Vs._Duck_Hunt_-_1985_-_Nintendo_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 41
-        width: 257
-        height: 238
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 2, z: 0, w: 0}
-    - name: Bullet
-      rect:
-        serializedVersion: 2
-        x: 58
-        y: 29
-        width: 6
-        height: 9
-      alignment: 9
-      pivot: {x: .486950278, y: .446715146}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Duck_icon
-      rect:
-        serializedVersion: 2
-        x: 116
-        y: 28
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: NES - Duck Hunt - General Rips_0
-      rect:
-        serializedVersion: 2
-        x: 323
-        y: 185
-        width: 85
-        height: 68
+        x: 1013
+        y: 80
+        width: 385
+        height: 122
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
